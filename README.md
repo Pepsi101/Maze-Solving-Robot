@@ -1,4 +1,4 @@
 # Maze-Solving-Robot
 
-Circuit Diagram:
-<img src="images/Maze Solving Robot.png" alt="Maze Solving Robot" width="400">
+![Circuit Diagram](Maze%20Solving%20Circuit%20Diagram.png)
+
